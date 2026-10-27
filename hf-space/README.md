@@ -18,7 +18,7 @@ tags:
 
 # Grok Bot email guide
 
-**Tested by me, not a news recap.** Full story (subscribe for the Grok Mail build checklist): [How I built Grok Mail on Vibe Coders Life](https://www.vibecoderslife.com/post/how-i-built-grok-mail?utm_source=huggingface&utm_medium=space&utm_campaign=grok-mail#grok-mail-guide) *(post not published yet)*.
+**Tested by me, not a news recap.** Full story + free Grok Mail build checklist: [How I built Grok Mail on Vibe Coder's Life](https://vibecoderslife.com/post/how-i-built-grok-mail?utm_source=huggingface&utm_medium=space&utm_campaign=grok-mail#grok-mail-guide).
 
 This Space mirrors the public teaser README. Source: [github.com/kondasviktor/grok-bot-email-guide](https://github.com/kondasviktor/grok-bot-email-guide).
 

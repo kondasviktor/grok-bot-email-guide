@@ -1,10 +1,10 @@
 # Grok Bot email guide
 
-**Last verified: 22 Oct 2026**
+**Last verified: 27 Oct 2026**
 
-> Tested by me, not a news recap. Full story: [How I built Grok Mail on Vibe Coders Life](https://www.vibecoderslife.com/post/how-i-built-grok-mail?utm_source=github&utm_medium=readme&utm_campaign=grok-mail) *(post not published yet: link goes live on publish)*
+> Tested by me, not a news recap. Full story: [How I built Grok Mail on Vibe Coder's Life](https://vibecoderslife.com/post/how-i-built-grok-mail?utm_source=github&utm_medium=readme&utm_campaign=grok-mail)
 
-Grok Bot can now claim its own email inbox. I claimed one, sent from it, got a reply back, and built a private mail app on top of it. This repo is what I learned: what works, what I only read about, and how to keep it safe.
+Grok Bot can claim its own email inbox. I claimed one, sent from it, got a reply back, and built a private mail app on top of it. This repo is what I learned: what works, what I only read about, and how to keep it safe.
 
 ## What Grok Bot email is
 
@@ -58,12 +58,21 @@ All of these are safe by design: they read, sort and draft, and never send on th
 
 ## Want to build your own mail app on top?
 
-I built Grok Mail, a private single-user mail app on top of the Grok Bot inbox. **The full Grok Mail build guide is free in the VCL newsletter:** [get the guide](https://www.vibecoderslife.com/post/how-i-built-grok-mail?utm_source=github&utm_medium=readme&utm_campaign=grok-mail#grok-mail-guide).
+I built Grok Mail, a private single-user mail app on top of the Grok Bot inbox. **The full Grok Mail build guide is free in the VCL newsletter:** [get the guide](https://vibecoderslife.com/post/how-i-built-grok-mail?utm_source=github&utm_medium=readme&utm_campaign=grok-mail#grok-mail-guide).
 
-## Suggested GitHub settings
+## How you can help (please)
 
-- **Description:** Tested guide to Grok Bot email: claiming an inbox, safe routines, and a security checklist. By Vibe Coders Life.
-- **Topics:** `grok` `grok-bot` `email` `ai-agents` `automation` `prompt-injection` `vibe-coding` `routines` `guide`
+1. ⭐ **Star this repo** if the checklist is useful — stars help others find a tested Grok Bot email guide when they search, and they tell us the project is worth maintaining.
+2. 🍴 **Fork it** when you want your own routines, private notes, or a team backlog — that's the point of an open teaser list.
+3. 🧪 **Open an issue** with something you tested yourself (claim flow, a routine, a gotcha) — untested claims stay in the "read only" row until someone verifies them.
+4. ✉️ **[Subscribe to the Vibe Coder's Life newsletter](https://vibecoderslife.com/post/how-i-built-grok-mail?utm_source=github&utm_medium=readme&utm_campaign=grok-mail#grok-mail-guide)** for the full Grok Mail setup guide — no need to live in GitHub to stay in the loop.
+5. ☕ **[Buy Me a Coffee](https://buymeacoffee.com/kondasviktor)** if you want to support maintenance — optional tips help keep this guide updated when Grok Bot changes.
+
+## Hugging Face mirror
+
+Static Space (same teaser): https://huggingface.co/spaces/kondasviktor/grok-bot-email-guide
+
+Source of truth stays this GitHub repo. The `hf-space/` folder syncs via `.github/workflows/sync-huggingface.yml` when `HF_TOKEN` is set.
 
 ## License
 
@@ -71,4 +80,4 @@ MIT. Use and adapt freely, credit appreciated.
 
 ---
 
-Made by Viktor Kondás · [Read the full story on Vibe Coders Life](https://www.vibecoderslife.com/post/how-i-built-grok-mail?utm_source=github&utm_medium=readme&utm_campaign=grok-mail) *(not published yet)*
+Made by Viktor Kondás · [Read the full story on Vibe Coder's Life](https://vibecoderslife.com/post/how-i-built-grok-mail?utm_source=github&utm_medium=readme&utm_campaign=grok-mail)
