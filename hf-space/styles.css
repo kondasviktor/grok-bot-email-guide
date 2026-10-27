@@ -38,6 +38,19 @@ h2 {
 }
 .lede { color: var(--muted); font-size: 1.1rem; margin: 0 0 1.25rem; }
 .note { font-size: 14px; color: var(--muted); }
+.shot {
+  margin: 1.25rem 0 0.75rem;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  overflow: hidden;
+  background: var(--surface);
+}
+.shot a { display: block; }
+.shot img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
 .cta-row { display: flex; flex-wrap: wrap; gap: 12px; margin: 1rem 0 1.5rem; align-items: center; }
 .cta {
   display: inline-block;
